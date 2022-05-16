@@ -1,0 +1,13 @@
+#t1{
+    text-align: center;
+    color: blue;
+}
+#t2{
+    text-align: center;
+    color: chartreuse;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+#t3{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+}
